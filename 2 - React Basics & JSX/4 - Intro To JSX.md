@@ -1,6 +1,7 @@
 # **Intro To JSX**
 
 JSX allows us to write plain HTML in our components. There are a couple rules to follow when writing JSX.
+React components are regular JavaScript functions, but their names must start with a capital letter or they won’t work!
 
 ```jsx
 // App.js
