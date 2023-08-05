@@ -26,6 +26,12 @@ Follow with the next command to open current file in your code editor:
     code .
 ```
 
+Instal Babel dev dependency
+
+```bash
+npm i -D @babel/plugin-proposal-private-property-in-object
+```
+
 Open integrated terminal and run script to start dev server:
 
 ```bash
