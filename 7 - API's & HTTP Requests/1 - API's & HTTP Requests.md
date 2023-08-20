@@ -1,6 +1,8 @@
 # **API's & HTTP Requests**
 
-What we have created in the previous section is a complete client side application all our feedback is hardcoded in the app and stored in the browser. In more realistic scenario we would have our data stored in some kind od database. We will use in this section API called JSONPlaceholder to make requests and get the data from the server.
+What we have created in the previous section is a complete client side application all our feedback is hardcoded in the app and stored in the browser. In more realistic scenario we would have our data stored in some kind od database. We will use in this section API called JSON Server to make requests and get the data from the server.
+
+![Client-Server Communucation Diagram](../images/client-server-requests.png)
 
 ## **Fullstack Application Overview**
 
